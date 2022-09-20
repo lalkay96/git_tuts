@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: white;
 }
 
 /* div {
@@ -15,14 +15,14 @@ body {
 } */
 
 h1 {
-  color: white;
+  color: black;
   text-decoration: underline;
   text-decoration-color: white;
 }
 
 .middle {
   /* background-color: white; */
-  color: white;
+  color: black;
   margin-top: 300px;
   text-align: center;
   /* text-decoration: underline;
