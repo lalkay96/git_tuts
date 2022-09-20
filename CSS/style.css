@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+
+/* div {
+  background-color: white;
+  align-content: center;
+  text-align: center;
+} */
+
+/* p {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: white;
+} */
+
+h1 {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.middle {
+  /* background-color: white; */
+  color: white;
+  margin-top: 300px;
+  text-align: center;
+  /* text-decoration: underline;
+  text-decoration-color: white; */
+
+}
